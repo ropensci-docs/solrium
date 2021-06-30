@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "31c9f67e92bfd2c2d0b9931b85da919eadcb44c9",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-06-30 23:30:33",
+    "files": 4,
+    "merge": false,
+    "message": "#124 add auth to SolrClient and http helper fxns\n"
+  },
+  "remote": "https://github.com/ropensci/solrium",
+  "pkg": "solrium"
+}

@@ -1,0 +1,13 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  cores_collections: cores_collections.html
+  document_management: document_management.html
+  local_setup: local_setup.html
+  search: search.html
+last_built: 2021-07-10T01:30Z
+urls:
+  reference: https://docs.ropensci.org/solrium/reference
+  article: https://docs.ropensci.org/solrium/articles
+
